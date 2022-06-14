@@ -1,24 +1,12 @@
-<!--
-**Sarasatory/Sarasatory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center" style="color:#ff7800">
 ¡Hola, soy Satory!
 </h1>
+<h6 align="center" style="color:#ff7800">
+(Ella / Elle)
+</h6>
 <div style="text-align:center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?duration=5000&size=18&color=f2770c&center=true&vCenter=true&lines=Frontend+Developer+y+UX/UI Designer" width="500">
+        <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF7800&center=true&vCenter=true&width=500&height=50&lines=Frontend+Developer+%26+UX%2FUI+Designer">
     </a>
 </div>
 
