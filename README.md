@@ -1,22 +1,22 @@
 <h1 align="center" style="color:#ff7800">
 ¡Hola, soy Satory!
 </h1>
-<h6 align="center" style="color:#ff7800">
+<!-- <h6 align="center" style="color:#ff7800">
 (Ella / Elle)
-</h6>
+</h6> -->
 <div style="text-align:center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF7800&center=true&vCenter=true&width=500&height=50&lines=Frontend+Developer+%26+UX%2FUI+Designer">
     </a>
 </div>
 
-<p>Me llamo Satory y soy una persona curiosa. <span style="color:#e0781d">Curiosa</span> porque <span style="color:#e0781d">siempre tengo ganas de aprender</span> y conocer más, y curiosa porque lo normal parece que me rebota y no se queda pegado a mi vida.</p>
+<p>Me llamo Satory y soy una persona curiosa. <strong style="color:#e0781d">Curiosa</strong> porque <strong style="color:#e0781d">siempre tengo ganas de aprender</strong> y conocer más, y curiosa porque lo normal parece que me rebota y no se queda pegado a mi vida.</p>
 
-<p>Soy ante todo alguien con ganas de cambiar las cosas, de mejorar un poco el entorno en el que me muevo, y de <span style="color:#e0781d">aportar desde mi perspectiva y conocimiento</span>. Al final, el mundo siempre te termina devolviendo, y es más placentero caminar por él cuando lo cuidas un poquito.</p>
+<p>Soy ante todo alguien con ganas de cambiar las cosas, de mejorar un poco el entorno en el que me muevo, y de <strong style="color:#e0781d">aportar desde mi perspectiva y conocimiento</strong>. Al final, el mundo siempre te termina devolviendo, y es más placentero caminar por él cuando lo cuidas un poquito.</p>
 
-<p>Y es por eso, porque soy una persona curiosa, inquieta, y con ganas de mejora, que <span style="color:#e0781d">siempre ando buscando proyectos en los que implicarme y personas con las que compartirlos</span>. Desde la base del respeto, el cuidado, y el crecimiento personal y colectivo.</p>
+<p>Y es por eso, porque soy una persona curiosa, inquieta, y con ganas de mejora, que <strong style="color:#e0781d">siempre ando buscando proyectos en los que implicarme y personas con las que compartirlos</strong>. Desde la base del respeto, el cuidado, y el crecimiento personal y colectivo.</p>
 
-<p>Y en este entorno que nos ocupa, <span style="color:#e0781d">soy una persona no binaria</span>, transfemenina, <span style="color:#e0781d">con cierto gusto por los retos</span> y juegos de ingenio, que trae <span style="color:#e0781d">la mochila del diseño y la enseñanza para nutrirse de herramientas</span> y de ese modo conseguir que <span style="color:#e0781d">la magia de la programación pase también a mi lista de recursos</span>.</p>
+<p>Y en este entorno que nos ocupa, <strong style="color:#e0781d">soy una persona no binaria</strong>, transfemenina, <strong style="color:#e0781d">con cierto gusto por los retos</strong> y juegos de ingenio, que trae <strong style="color:#e0781d">la mochila del diseño y la enseñanza para nutrirse de herramientas</strong> y de ese modo conseguir que <strong style="color:#e0781d">la magia de la programación pase también a mi lista de recursos</strong>.</p>
 
 <p style="font-size:18px"><a href="https://www.linkedin.com/in/satoryasensio/"><strong style="color:#f2770c">¿Jugamos?</strong></a></p>
 
