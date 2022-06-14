@@ -4,12 +4,11 @@
 <!-- <h6 align="center" style="color:#ff7800">
 (Ella / Elle)
 </h6> -->
-<div style="text-align:center">
+<h1 align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF7800&center=true&vCenter=true&width=500&height=50&lines=Frontend+Developer+%26+UX%2FUI+Designer">
     </a>
-</div>
-
+</h1>
 <p>Me llamo Satory y soy una persona curiosa. <strong style="color:#e0781d">Curiosa</strong> porque <strong style="color:#e0781d">siempre tengo ganas de aprender</strong> y conocer más, y curiosa porque lo normal parece que me rebota y no se queda pegado a mi vida.</p>
 
 <p>Soy ante todo alguien con ganas de cambiar las cosas, de mejorar un poco el entorno en el que me muevo, y de <strong style="color:#e0781d">aportar desde mi perspectiva y conocimiento</strong>. Al final, el mundo siempre te termina devolviendo, y es más placentero caminar por él cuando lo cuidas un poquito.</p>
